@@ -1,4 +1,9 @@
-### Taro开发过程中遇到的一些bug，不同分支对应不同的bug
+### Taro3.6.6版本，微信小程序预渲染bug
 
-1. 分支 `scss-3.6.6`  `webpack5 scss` 编译错误的 bug
-2. 分支 `prerender-3.6.6`  微信小程序预渲染的编译错误
+已经在 `config -> index.js` 开启了预渲染配置，请直接 `yarn dev:weapp` 查看控制台报错
+
+`yarn -v 1.22.19`
+
+`npm -v 6.14.8 `
+
+`node -v 6.14.8`
